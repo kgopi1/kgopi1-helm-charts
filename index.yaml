@@ -11,4 +11,15 @@ entries:
     urls:
     - https://github.com/kgopi1/kgopi1-helm-charts/releases/download/simple-chart-0.1.0/simple-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-22T21:50:51.674083182Z"
+  simple-chart2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-22T21:54:32.152221868Z"
+    description: A Helm chart for Kubernetes
+    digest: 2cfe4ce5000c171facc43017931d04aeefc044c748f5423c59b014673755918c
+    name: simple-chart2
+    type: application
+    urls:
+    - https://github.com/kgopi1/kgopi1-helm-charts/releases/download/simple-chart2-0.1.0/simple-chart2-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-22T21:54:32.152227218Z"
