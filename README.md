@@ -1,2 +1,2 @@
-# kgopi1-helm-charts
+# helm-charts
 Gopi Helm charts
